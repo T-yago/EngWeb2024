@@ -47,7 +47,7 @@ for elem in content["cidades"]:
     fileCidade.close()
 
 for elem in sorted(listacidades):
-    html += f"<li><a href='{elem}.html'>{elem}</a></li>"
+    html += f"<li><a href='html/{elem}.html'>{elem}</a></li>"
 
 
 
@@ -56,6 +56,6 @@ html += "</ul>"
 html += "</body>"
 html += "</html>"
 
-file = open("html/mapa_sorted_linked.html", "w", encoding="utf-8")
+file = open("../TPC1/mapa_sorted_linked.html", "w", encoding="utf-8")
 file.write(html)
 file.close()
