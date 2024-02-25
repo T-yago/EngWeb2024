@@ -13,10 +13,11 @@ De seguida, utilizamos um ficheiro ".js" para criar um servidor que corre no loc
 
 
 - Página principal:
-    - lista alfabética de cidades
-    Cada cidadade é um link da forma: <li><a href="http:localhost:7778/c3">Braga</a>
+   - lista alfabética de cidades
+        Cada cidadade é um link da forma: <b>`<li><a href="http:localhost:7778/c3">Braga</a>`</b>
         / => Pág. inicial
         /c1 => Pág. da cidade c1
+
 
     Página da cidade:
         - nome, id, distrito, população
