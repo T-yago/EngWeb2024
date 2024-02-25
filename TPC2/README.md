@@ -12,15 +12,10 @@ Com dados contidos no mesmo, foram criadas uma página para cada cidade, e uma p
 De seguida, utilizamos um ficheiro ".js" para criar um servidor que corre no localhost, mais especificamente na porta <b>7780</b>, e que gere todas as chamadas feitas pelo cliente, respondendo com as páginas pretendidas.
 
 
-- Página principal:
-   - lista alfabética de cidades
-        Cada cidadade é um link da forma: <b>`<li><a href="http:localhost:7778/c3">Braga</a>`</b>
-        / => Pág. inicial
-        /c1 => Pág. da cidade c1
-
-
-    Página da cidade:
-        - nome, id, distrito, população
-        - ligação (link para abrir a página)
-    
+- Estrutura do website:
+    - <b>/</b> => Página principal: lista alfabética de cidades
+    - <b>/cXXX</b> (onde XXXX é o ID da cidade) => Página da cidade:
+            - nome, id, distrito, população
+            - ligação (link para abrir a página)
+        
 
