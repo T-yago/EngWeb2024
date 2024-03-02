@@ -7,15 +7,13 @@
 
 ## Resumo
 
- - 1. Análise do dataset e criação da BD em json.server -> talvez não servir diretamente pelo servidor node, porque vai dar jeito ter redundância para responder a certas questões
- - 2. Aplicar normalização? Cuidado com estruturas aninhadas
+ - 1. Análise do dataset, e parsing dos dados para um novo json sem erros de sintaxe, e com três dicionários diferentes: filmes, generos e actores, normalização do dataset
+ - 2. Incialização do json-server, que serve três rotas, cada uma corresponde a cada dicionário mencionado previamente.
  - 3. Servico que reponde ás seguintes rotas:
+        -> GET / -> Listagem dos 3 dicionários (páginas) existentes, com links
         -> GET /filmes -> listagem de filmes (cada linha é um link para a página do filme)
         -> /filmes/idFilme
-            /generos
+            /generos -> Listagem dos géneros existentes e dos filmes que estao etiquetados com esse mesmo género
             /generos/idGen
-            /ator
-            /ator/idAtor
-
-
-        filme -> cast, genre, title, year.
+            /actores -> 
+            /actores/idAtor

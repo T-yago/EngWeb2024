@@ -64,8 +64,8 @@ def fix_and_organize_json(input_file, output_file):
     with open(output_file, 'w') as f:
         json.dump({
             'filmes': filmes_data,
-            'genres': genres_data,
-            'actors': actors_data
+            'generos': genres_data,
+            'actores': actors_data
         }, f, indent=4)
 
 if __name__ == "__main__":
