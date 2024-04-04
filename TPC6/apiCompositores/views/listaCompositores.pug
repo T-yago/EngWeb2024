@@ -1,0 +1,35 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-container.w3-pink
+      h1= titulo
+      button.w3-btn.w3-teal(onclick="window.location.href='/'") Voltar
+      button.w3-btn.w3-round.w3-teal(onclick="window.location.href='/compositores/registo'") Registar 
+
+    .w3-container
+      table.w3-table-all
+        tr
+          th Id
+          th Nome
+          th Bio
+          th dataNasc
+          th dataObito
+          th periodo
+        each cp in lista
+          tr
+            td 
+              a(href='/compositores/' + cp.id) #{cp.id}
+            td= cp.nome
+            td= cp.bio
+            td= cp.dataNasc
+            td= cp.dataObito
+            td= cp.periodo
+            td
+              a(href='/compositores/edit/' + cp.id) Editar
+              a(href='/compositores/delete/' + cp.id) Apagar
+    button.w3-btn.w3-pink(onclick="window.location.href='/'") Voltar
+
+
+    footer.w3-container.w3-teal
+      address Gerado por EngWeb2024 em #{data}
