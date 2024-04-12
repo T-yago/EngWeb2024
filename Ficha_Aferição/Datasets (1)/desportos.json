@@ -1,0 +1,570 @@
+[
+    {
+        "_id": "D00000001",
+        "nome": "Surf"
+    },
+    {
+        "_id": "D00000002",
+        "nome": "Wrestling"
+    },
+    {
+        "_id": "D00000003",
+        "nome": "Muay Thai"
+    },
+    {
+        "_id": "D00000004",
+        "nome": "Futebol Canadense"
+    },
+    {
+        "_id": "D00000005",
+        "nome": "Futebol de sal\u00e3o-FIFUSA"
+    },
+    {
+        "_id": "D00000006",
+        "nome": "Futebol de Cinco"
+    },
+    {
+        "_id": "D00000007",
+        "nome": "Badminton"
+    },
+    {
+        "_id": "D00000008",
+        "nome": "Golfe"
+    },
+    {
+        "_id": "D00000009",
+        "nome": "I-Chuan"
+    },
+    {
+        "_id": "D00000010",
+        "nome": "Triatlo"
+    },
+    {
+        "_id": "D00000011",
+        "nome": "Futebol Australiano"
+    },
+    {
+        "_id": "D00000012",
+        "nome": "T\u00e9nis de Mesa"
+    },
+    {
+        "_id": "D00000013",
+        "nome": "Snow Papel\u00e3o"
+    },
+    {
+        "_id": "D00000014",
+        "nome": "Orienta\u00e7\u00e3o"
+    },
+    {
+        "_id": "D00000015",
+        "nome": "Squash"
+    },
+    {
+        "_id": "D00000016",
+        "nome": "Pesapallo"
+    },
+    {
+        "_id": "D00000017",
+        "nome": "Corrida de meio-fundo"
+    },
+    {
+        "_id": "D00000018",
+        "nome": "Ninjutsu"
+    },
+    {
+        "_id": "D00000019",
+        "nome": "H\u00f3quei em campo"
+    },
+    {
+        "_id": "D00000020",
+        "nome": "Futebol Americano"
+    },
+    {
+        "_id": "D00000021",
+        "nome": "Arremesso do peso"
+    },
+    {
+        "_id": "D00000022",
+        "nome": "Andebol"
+    },
+    {
+        "_id": "D00000023",
+        "nome": "Cr\u00edquete"
+    },
+    {
+        "_id": "D00000024",
+        "nome": "Bare-foot"
+    },
+    {
+        "_id": "D00000025",
+        "nome": "Salto em altura"
+    },
+    {
+        "_id": "D00000026",
+        "nome": "Esqui"
+    },
+    {
+        "_id": "D00000027",
+        "nome": "Corrida de Aventura"
+    },
+    {
+        "_id": "D00000028",
+        "nome": "Netball"
+    },
+    {
+        "_id": "D00000029",
+        "nome": "Raquetebol"
+    },
+    {
+        "_id": "D00000030",
+        "nome": "Lan\u00e7amento do martelo"
+    },
+    {
+        "_id": "D00000031",
+        "nome": "Cabo de Guerra"
+    },
+    {
+        "_id": "D00000032",
+        "nome": "Kabaddi"
+    },
+    {
+        "_id": "D00000033",
+        "nome": "Atletismo"
+    },
+    {
+        "_id": "D00000034",
+        "nome": "Ciclismo"
+    },
+    {
+        "_id": "D00000035",
+        "nome": "Capoeira"
+    },
+    {
+        "_id": "D00000036",
+        "nome": "Tai Chi Chuan"
+    },
+    {
+        "_id": "D00000037",
+        "nome": "H\u00f3quei subaqu\u00e1tico"
+    },
+    {
+        "_id": "D00000038",
+        "nome": "Parapente"
+    },
+    {
+        "_id": "D00000039",
+        "nome": "Kendo"
+    },
+    {
+        "_id": "D00000040",
+        "nome": "Pesca"
+    },
+    {
+        "_id": "D00000041",
+        "nome": "Ultimate"
+    },
+    {
+        "_id": "D00000042",
+        "nome": "Full Contact"
+    },
+    {
+        "_id": "D00000043",
+        "nome": "Xadrez"
+    },
+    {
+        "_id": "D00000044",
+        "nome": "Mergulho"
+    },
+    {
+        "_id": "D00000045",
+        "nome": "Lan\u00e7amento do disco"
+    },
+    {
+        "_id": "D00000046",
+        "nome": "Andebol de Praia"
+    },
+    {
+        "_id": "D00000047",
+        "nome": "H\u00f3quei em patins"
+    },
+    {
+        "_id": "D00000048",
+        "nome": "Futebol de Praia"
+    },
+    {
+        "_id": "D00000049",
+        "nome": "Hipismo"
+    },
+    {
+        "_id": "D00000050",
+        "nome": "Broomball"
+    },
+    {
+        "_id": "D00000051",
+        "nome": "Street Soccer"
+    },
+    {
+        "_id": "D00000052",
+        "nome": "Corfebol"
+    },
+    {
+        "_id": "D00000053",
+        "nome": "Shotokai"
+    },
+    {
+        "_id": "D00000054",
+        "nome": "Wushu"
+    },
+    {
+        "_id": "D00000055",
+        "nome": "Ca\u00e7a Submarina"
+    },
+    {
+        "_id": "D00000056",
+        "nome": "Nata\u00e7\u00e3o"
+    },
+    {
+        "_id": "D00000057",
+        "nome": "Salto com vara"
+    },
+    {
+        "_id": "D00000058",
+        "nome": "Minigolfe"
+    },
+    {
+        "_id": "D00000059",
+        "nome": "Hapkido"
+    },
+    {
+        "_id": "D00000060",
+        "nome": "Andebol Americano"
+    },
+    {
+        "_id": "D00000061",
+        "nome": "Marcha Atl\u00e9tica"
+    },
+    {
+        "_id": "D00000062",
+        "nome": "Jiu-Jitsu"
+    },
+    {
+        "_id": "D00000063",
+        "nome": "Futebol Ga\u00e9lico"
+    },
+    {
+        "_id": "D00000064",
+        "nome": "Windsurf"
+    },
+    {
+        "_id": "D00000065",
+        "nome": "Lan\u00e7amento do dardo"
+    },
+    {
+        "_id": "D00000066",
+        "nome": "Hurling"
+    },
+    {
+        "_id": "D00000067",
+        "nome": "Halterofilismo"
+    },
+    {
+        "_id": "D00000068",
+        "nome": "Marcha N\u00f3rdica"
+    },
+    {
+        "_id": "D00000069",
+        "nome": "Tchouckball"
+    },
+    {
+        "_id": "D00000070",
+        "nome": "P\u00f3lo aqu\u00e1tico"
+    },
+    {
+        "_id": "D00000071",
+        "nome": "Beisebol"
+    },
+    {
+        "_id": "D00000072",
+        "nome": "Futevolei"
+    },
+    {
+        "_id": "D00000073",
+        "nome": "Tiro com arco"
+    },
+    {
+        "_id": "D00000074",
+        "nome": "Andebol de campo"
+    },
+    {
+        "_id": "D00000075",
+        "nome": "Triplo salto"
+    },
+    {
+        "_id": "D00000076",
+        "nome": "Rugby subaqu\u00e1tico"
+    },
+    {
+        "_id": "D00000077",
+        "nome": "Pelota Basca"
+    },
+    {
+        "_id": "D00000078",
+        "nome": "Air hockey"
+    },
+    {
+        "_id": "D00000079",
+        "nome": "Bodyboard"
+    },
+    {
+        "_id": "D00000080",
+        "nome": "Judo"
+    },
+    {
+        "_id": "D00000081",
+        "nome": "Boxe"
+    },
+    {
+        "_id": "D00000082",
+        "nome": "Kitesurf"
+    },
+    {
+        "_id": "D00000083",
+        "nome": "T\u00e9nis"
+    },
+    {
+        "_id": "D00000084",
+        "nome": "H\u00f3quei de pavilh\u00e3o"
+    },
+    {
+        "_id": "D00000085",
+        "nome": "Pentatlo Moderno"
+    },
+    {
+        "_id": "D00000086",
+        "nome": "BMX"
+    },
+    {
+        "_id": "D00000087",
+        "nome": "Malha"
+    },
+    {
+        "_id": "D00000088",
+        "nome": "Mountain Bike"
+    },
+    {
+        "_id": "D00000089",
+        "nome": "Haidong Gumdo"
+    },
+    {
+        "_id": "D00000090",
+        "nome": "Corrida de fundo"
+    },
+    {
+        "_id": "D00000091",
+        "nome": "Showbol"
+    },
+    {
+        "_id": "D00000092",
+        "nome": "Futebol de Arena"
+    },
+    {
+        "_id": "D00000093",
+        "nome": "Pentatlo Naval"
+    },
+    {
+        "_id": "D00000094",
+        "nome": "Balonismo"
+    },
+    {
+        "_id": "D00000095",
+        "nome": "Ultimate de praia"
+    },
+    {
+        "_id": "D00000096",
+        "nome": "Arte marcial"
+    },
+    {
+        "_id": "D00000097",
+        "nome": "Galinjitsu"
+    },
+    {
+        "_id": "D00000098",
+        "nome": "Aggressive Inline"
+    },
+    {
+        "_id": "D00000099",
+        "nome": "Floorball"
+    },
+    {
+        "_id": "D00000100",
+        "nome": "Rapel"
+    },
+    {
+        "_id": "D00000101",
+        "nome": "R\u00e2guebi"
+    },
+    {
+        "_id": "D00000102",
+        "nome": "Salto em comprimento"
+    },
+    {
+        "_id": "D00000103",
+        "nome": "Moton\u00e1utica"
+    },
+    {
+        "_id": "D00000104",
+        "nome": "Taekwondo"
+    },
+    {
+        "_id": "D00000105",
+        "nome": "Cornerbol"
+    },
+    {
+        "_id": "D00000106",
+        "nome": "Softbol"
+    },
+    {
+        "_id": "D00000107",
+        "nome": "Esqui Aqu\u00e1tico"
+    },
+    {
+        "_id": "D00000108",
+        "nome": "H\u00f3quei em linha"
+    },
+    {
+        "_id": "D00000109",
+        "nome": "Kung-Fu"
+    },
+    {
+        "_id": "D00000110",
+        "nome": "Karat\u00e9"
+    },
+    {
+        "_id": "D00000111",
+        "nome": "Lacrosse"
+    },
+    {
+        "_id": "D00000112",
+        "nome": "Peteca"
+    },
+    {
+        "_id": "D00000113",
+        "nome": "Columbofilia"
+    },
+    {
+        "_id": "D00000114",
+        "nome": "Biatlo"
+    },
+    {
+        "_id": "D00000115",
+        "nome": "Pentatlo Aeron\u00e1utico"
+    },
+    {
+        "_id": "D00000116",
+        "nome": "Rugby de praia"
+    },
+    {
+        "_id": "D00000117",
+        "nome": "Faustebol"
+    },
+    {
+        "_id": "D00000118",
+        "nome": "Pentatlo Militar"
+    },
+    {
+        "_id": "D00000119",
+        "nome": "Paddle"
+    },
+    {
+        "_id": "D00000120",
+        "nome": "Tiro"
+    },
+    {
+        "_id": "D00000121",
+        "nome": "Futsal"
+    },
+    {
+        "_id": "D00000122",
+        "nome": "Skate"
+    },
+    {
+        "_id": "D00000123",
+        "nome": "Snowboard"
+    },
+    {
+        "_id": "D00000124",
+        "nome": "Trekking"
+    },
+    {
+        "_id": "D00000125",
+        "nome": "Basquetebol"
+    },
+    {
+        "_id": "D00000126",
+        "nome": "Escalada"
+    },
+    {
+        "_id": "D00000127",
+        "nome": "H\u00f3quei no gelo"
+    },
+    {
+        "_id": "D00000128",
+        "nome": "Paintball"
+    },
+    {
+        "_id": "D00000129",
+        "nome": "Futebol"
+    },
+    {
+        "_id": "D00000130",
+        "nome": "Voleibol de praia"
+    },
+    {
+        "_id": "D00000131",
+        "nome": "Esgrima"
+    },
+    {
+        "_id": "D00000132",
+        "nome": "Bobsleigh"
+    },
+    {
+        "_id": "D00000133",
+        "nome": "Patinagem"
+    },
+    {
+        "_id": "D00000134",
+        "nome": "Ringette"
+    },
+    {
+        "_id": "D00000135",
+        "nome": "Manbol"
+    },
+    {
+        "_id": "D00000136",
+        "nome": "Corrida de velocidade"
+    },
+    {
+        "_id": "D00000137",
+        "nome": "Flag football"
+    },
+    {
+        "_id": "D00000138",
+        "nome": "Polo"
+    },
+    {
+        "_id": "D00000139",
+        "nome": "Kempo"
+    },
+    {
+        "_id": "D00000140",
+        "nome": "Voleibol"
+    },
+    {
+        "_id": "D00000141",
+        "nome": "Canoagem"
+    },
+    {
+        "_id": "D00000142",
+        "nome": "Aikido"
+    }
+]
