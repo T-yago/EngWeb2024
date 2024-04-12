@@ -14,10 +14,10 @@ module.exports.findById = id => {
         .exec()
 }
 
-module.exports.insert = Desporto => {
-        return Desporto.create(Desporto)
+module.exports.insert = desporto => {
+        return Desporto.create(desporto)
 }
 
-module.exports.updateDesporto = (id, Desporto) => {
-    return Desporto.updateOne({_id:id}, Desporto)
+module.exports.updateDesporto = (id, desporto) => {
+    return Desporto.updateOne({_id:id}, desporto)
 }

@@ -18,6 +18,6 @@ module.exports.insert = pessoa => {
         return Pessoa.create(pessoa)
 }
 
-module.exports.updatePessoa = (id, Pessoa) => {
-    return Pessoa.updateOne({_id:id}, Pessoa)
+module.exports.updatePessoa = (id, pessoa) => {
+    return Pessoa.updateOne({_id:id}, pessoa)
 }
